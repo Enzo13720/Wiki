@@ -28,8 +28,6 @@ un quelquonque document ou fichier balisé par Markdown peut etre lu sans donner
 - Le prix des voitures à hydrogènes restent très élevés, on parle d'une moyenne de 65000 euros pour se munir d'une voiture à hydrogène
 #
 #
-#
-#
 ---
 *Tableau du rapport combustible/pollution et énergie*
 |COMBUSTIBLE|FORME|COMPOSITION nombre moyen d'atomes de carbone |ENERGIE Pouvoir Calorifique Mégajoules/kg|POLLUTION CO2|
